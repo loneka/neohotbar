@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://loneka.com/NeoHotbar">
+  <a href="https://loneka.com/neohotbar">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="/gh-assets/NeoHotbarLogoLight.svg"></source>
       <source media="(prefers-color-scheme: light)" srcset="/gh-assets/NeoHotbarLogoDark.svg"></source>
